@@ -12,7 +12,7 @@
 
 - **Languages:**
   - Python 🐍
-  - C# 💎
+  - C 💎
   - Arduino C++ ⚙️
   - JavaScript 🌐
 
